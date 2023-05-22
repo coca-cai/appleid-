@@ -1,17 +1,7 @@
 <h1 align="center">1元Apple ID 购买批发</h1>
 <p align="center">
     <a href="https://tibutia.com/" style="text-decoration:none">
-        <img src="https://img.shields.io/github/issues/pplulee/appleid_auto.svg" alt="GitHub issues"/>
-    </a>
-    <a href="https://github.com/pplulee/appleid_auto/stargazers" style="text-decoration:none" >
-        <img src="https://img.shields.io/github/stars/pplulee/appleid_auto.svg" alt="GitHub stars"/>
-    </a>
-    <a href="https://github.com/pplulee/appleid_auto/network" style="text-decoration:none" >
-        <img src="https://img.shields.io/github/forks/pplulee/appleid_auto.svg" alt="GitHub forks"/>
-    </a>
-    <a href="https://github.com/pplulee/apple_auto/blob/main/LICENSE" style="text-decoration:none" >
-        <img src="https://img.shields.io/github/license/pplulee/appleid_auto" alt="GitHub license"/>
-    </a>
+  
 </p>
 <h3 align="center">中文文档 | <a href="README_en.md">English</a> </h3>
 <h3 align="center">请仔细阅读本文档以及使用说明，再使用。</h3>
@@ -20,46 +10,30 @@
 
 # 基本简介
 
-“以全新方式管理你的 Apple ID” —— 这是一款基于密保问题的自动化 Apple ID 检测&解锁程序。
+“日啖荔枝三百颗”，日产AppleID800个，目前产能每天保供800-1000个，成品率100%；单ID的生产成本是0.57元（邮箱+ip+服务器+电费），未来计划日产2000-3000。
+支持全球各地区ID生产，但是韩国19+还不具备。
 
-前端用于管理账号，支持添加多个账号，并提供展示账号页面；
+不出售程序，程序稳定性和持续性是个耐力活，售后时间成本太高。有需要的直接拿号，单量500+支持自定义密码、自定义密保信息。
 
-支持创建包含多个账号的分享页面，并可以为分享页面设置密码。
+ID邮箱支持所有，单从性价比上主要使用outlook、hotmail、ru、gmx.com，经验上outlook、hotmail邮箱稳定性较差不推荐，再说取验证码也比较麻烦。有钱的金主也可以上Gmail……
 
-后端定时检测账号是否被锁定，若被锁定或开启二步验证则自动解锁，修改密码并向API回报密码。
+# 账号优势
 
-登录Apple ID并自动删除Apple ID中的设备。
+- 兼具普号和icloud号双功能：在设置登录会自动开启icloud功能，但激活超10个icloud号的iPhone/ipad此功能不再适用；
+- 提供注册ID时的邮箱密码；
+- 具备理财属性，适合囤货，实战老号价格更具市场力；
+- 功能全面，价格美丽
 
-启用代理池和Selenium集群，提高解锁成功率，防止风控。
+# 联系
 
-# 项目特点
+飞机：tibutia6
+QQ: 1974990974
 
-- 多用户使用，权限控制
-- 多账号管理
-- 账号分享页，支持设置密码、有效期、自定义HTML内容
-- 自动解锁与关闭二步验证
-- 自动/定时修改密码
-- 自动删除Apple ID中的设备
-- 代理池与Selenium集群，提高解锁成功率
-- 允许手动触发解锁
-- ……
 
-# 使用文档
+# 购买
 
-我们已将所有文档与使用说明整理到了GitBook上，欢迎前往查看：
-
-https://appleid-auto.gitbook.io/doc_zhcn/
-
-# 问题反馈&交流
-
-开发者水平和能力有限，程序可能存在诸多bug，欢迎提出 Issue 或 Pull Request ，也欢迎各位大佬加入项目，贡献代码！ \
-Telegram群：[@appleunblocker](https://t.me/appleunblocker)
+购买商城 https://tibutia.com/
 
 ---
 
-# 请我喝杯可乐
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/baiyimiao) \
-USDT-TRC20: TV1su1RnQny27YEF9WG4DbC8AAz3udt6d4 \
-ETH-ERC20：0xea8fbe1559b1eb4b526c3bb69285203969b774c5 \
-其余赞助方式欢迎联系开发者
